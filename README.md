@@ -18,11 +18,17 @@ This project uses:
 
 ## Preview 📸
 
-Employee List	
+- View Employee List	
+![Screenshot (65)](https://github.com/user-attachments/assets/979b8d26-807f-40d1-aeae-d60da762b18f)
 
-Add Employee	
+- Search Employee
+![Screenshot (66)](https://github.com/user-attachments/assets/3685f688-d48f-4031-8adc-00fb11907ecc)
 
-Edit Employee
+- Edit Employee
+![Screenshot (69)](https://github.com/user-attachments/assets/2b9e99a2-6c22-4470-b2ef-33bd3c5c64fa)
+
+- Add Employee	
+![Screenshot (71)](https://github.com/user-attachments/assets/30694fa3-733e-49e9-8206-1c75e7d59c99)
 
 ## Technologies Used 🛠️
 
