@@ -48,7 +48,7 @@ Follow these steps to run the project on your local machine:
 - Clone the repository:
 
 ```
-git clone https://github.com/yourusername/employee-management-system.git
+git clone https://github.com/Madhavi96/employee-management-system.git
 cd employee-management-system
 ```
 
